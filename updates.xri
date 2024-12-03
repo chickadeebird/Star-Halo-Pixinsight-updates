@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xri version="1.0">
+   <description>
+      <p>
+		Beta release of Halo Repair Script (JAHRS) updates from chickadeebird.
+      </p>
+      <p>
+      The scripts have been written by Chick Dee (alias chickadeebird).
+      Feedback can be provided on the PixInsight forums.
+      </p>
+   </description>
+   <platform os="all" arch="noarch" version="1.8.9:2.0.0">
+      <package fileName="JAHRS1.0.0.beta.zip" sha1="ab3aa7183264275ad2f2afa7043e12a32a744580" type="script" releaseDate="202412203">
+         <title>
+            Script for JAHRS - Just Another Halo Repair Script.
+         </title>
+         <description>
+            <p>
+               Script for repairing medium sized halos around stars. <br/>
+            </p>
+         </description>
+      </package>
+   </platform>
+</xri>
