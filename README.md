@@ -5,9 +5,12 @@ The user can select an ellipse to place a ring around the offending halo (shift 
 The user may also use a single click and mouse button
 release and the radius in the slider on the interface will be used. Also, once the user has initially selected the ellipse with the shift-left click
 and the action is executed, the halo size should update on the slider.
+
 If the selection is imperfect, either Ctrl+left mouse button will modify the selection, or start over by shift+left mouse button as above.
 Once the selection is made, the execute button will modify the image window open in Pixinsight.
 This works on both RGB and mono images.
+
+The Residual star slider is the size of the star that remains after the halo has been repaired. If it is set to 0, no residual star is created.
 
 ## Images
 
