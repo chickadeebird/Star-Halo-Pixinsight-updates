@@ -19,13 +19,13 @@ The Residual star slider is the size of the star that remains after the halo has
 
 This is a sample pair of images.
 
-<img src="./figs/Repaired flat.png" text='Repaired flat' align=left />
+<img src="./figs/HalosRepaired.png" text='Repaired halos - left original, right repaired' align=left />
 
 ## Script
 
 This is the script interface.
 
-<img src="./figs/DonutRepairScript.png" text='Dust donut repair script' align=left />
+<img src="./figs/HaloRepairScript.png" text='Halo repair script' align=left />
 
 ## Manage repository location
 
