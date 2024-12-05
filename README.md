@@ -26,3 +26,5 @@ This is the script interface.
 In order to automatically refresh the script in Pixinsight, add this following to Resources > Updates > Manage repositories
 
 https://raw.githubusercontent.com/chickadeebird/Star-Halo-Pixinsight-updates/main/
+
+After this has been added to the repositories, Check for updates should place the new JAHRsHaloRepair script in Scripts > ChickadeeScripts
