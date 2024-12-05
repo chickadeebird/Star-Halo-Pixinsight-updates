@@ -2,7 +2,7 @@
 <xri version="1.0">
    <description>
       <p>
-		Beta release 1.0.1 of Halo Repair Script (JAHRS) updates from chickadeebird.
+		First release of Just Another Halo Repair Script (JAHRS) from chickadeebird.
       </p>
       <p>
       The scripts have been written by Chick Dee (alias chickadeebird).
@@ -10,7 +10,7 @@
       </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.9:2.0.0">
-      <package fileName="JAHRS1.0.1.beta.zip" sha1="28c516c7804c590cec1dadc5979260bf5df125f9" type="script" releaseDate="20241203">
+      <package fileName="JAHRS1.0.0.zip" sha1="fb62a5d061d75c5a215c4d373edc83811a004022" type="script" releaseDate="20241204">
          <title>
             Script for JAHRS - Just Another Halo Repair Script.
          </title>
