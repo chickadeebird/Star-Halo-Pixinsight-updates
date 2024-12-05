@@ -1,4 +1,4 @@
-# Just Another Halo Repair Script
+# Just Another Halo Repair Script - JAHRS
 This is a Pixinsight script for repairing medium sized halos around stars.
 The script will display any available image window in its image window frame.
 The user can select an ellipse to place a ring around the offending halo (shift button down, and left mouse button down and drag).
