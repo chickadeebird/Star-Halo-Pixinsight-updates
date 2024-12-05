@@ -7,8 +7,11 @@ release and the radius in the slider on the interface will be used. Also, once t
 and the action is executed, the halo size should update on the slider.
 
 If the selection is imperfect, either Ctrl+left mouse button will modify the selection, or start over by shift+left mouse button as above.
-Once the selection is made, the execute button will modify the image window open in Pixinsight.
-This works on both RGB and mono images.
+
+Once the selection is made, the execute button will modify the image window open in Pixinsight as well as that image displayed in the image preview
+in the script. The Undo button undoes the changes in both the preview window and the image window open in the main Pixinsight window.
+
+This script works on both RGB and mono images.
 
 The Residual star slider is the size of the star that remains after the halo has been repaired. If it is set to 0, no residual star is created.
 
