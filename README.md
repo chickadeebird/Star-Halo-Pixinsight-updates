@@ -17,7 +17,7 @@ The Residual star slider is the size of the star that remains after the halo has
 
 ## Images
 
-This is a sample pair of images.
+This is a sample pair of images. Thank you to Geoff on the Pixinsight forums for permitting me to use his image as a sample.
 
 <img src="./figs/HalosRepaired.png" text='Repaired halos - left original, right repaired' align=left />
 
